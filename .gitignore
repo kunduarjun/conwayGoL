@@ -1,3 +1,2 @@
-# Ignore .json files
-*.json
+# Ignore hash.js 
 hash.js
