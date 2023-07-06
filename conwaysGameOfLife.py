@@ -90,5 +90,5 @@ while True: # Program loop. Every iteration is a simulation step.
     except KeyboardInterrupt:
         print()
         print("Conway's Game of Life")
-        print("By Al Sweigart, copied by Arjun Kundu")
+        print("Created by Al Sweigart, copied by Arjun Kundu")
         sys.exit() # When Ctrl-C is pressed, end the program.
